@@ -60,7 +60,7 @@ pip install -r requirements.txt
     └── settings.yaml             # Configuration for database and retrieval parameters
 ```
 
-## Configuration#
+## Configuration
 ### 1. Modify config/settings.yaml to fit your environment:
 
 ```bash
@@ -81,12 +81,13 @@ retrieval:
 python src/data_preprocessing.py --load-data ./data/documents
 ```
 
-#💡 Usage#
-##Running the Notebook##
+# 💡 Usage
+## Running the Notebook
 Open the Jupyter notebook and execute the cells to set up the RAG system:
 
 ```bash
 jupyter notebook notebooks/rag-using-llama3-langchain-and-chromadb.ipynb
+```
 
 #Command-Line Interface#
 Alternatively, use the CLI to query the system:

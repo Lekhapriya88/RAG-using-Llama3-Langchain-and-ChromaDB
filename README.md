@@ -103,6 +103,7 @@ To add and index a new set of documents:
 
 ```bash
 python src/data_preprocessing.py --load-data ./data/new_documents
+```
 
 #🛡️ Testing#
 * Unit tests are located in the tests/ folder.

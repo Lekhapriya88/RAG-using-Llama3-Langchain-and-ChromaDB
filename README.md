@@ -46,17 +46,7 @@ pip install -r requirements.txt
 
 #Project Structure#
 
-
-
-bash
-Copy code
-pip install -r requirements.txt
-Setup Environment Make sure to configure the environment variables if any API keys are required for external services.
-
-Project Structure
-plaintext
-Copy code
-```
+```bash
 ├── notebooks/
 │   └── rag-using-llama3-langchain-and-chromadb.ipynb  # Main Jupyter Notebook for the project
 ├── src/
@@ -66,7 +56,7 @@ Copy code
 ├── requirements.txt              # Project dependencies
 ├── README.md                     # Project documentation
 └── config/
-    └── settings.yaml             # Configuration for database and retrieval parameters```
+    └── settings.yaml             # Configuration for database and retrieval parameters
 Configuration
 Modify config/settings.yaml to fit your environment:
 

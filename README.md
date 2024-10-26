@@ -45,8 +45,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Setup Environment Make sure to configure the environment variables if any API keys are required for external services.
-
-#Project Structure#
+###Project Structure###
 
 ```bash
 ├── notebooks/
@@ -59,6 +58,7 @@ pip install -r requirements.txt
 ├── README.md                     # Project documentation
 └── config/
     └── settings.yaml             # Configuration for database and retrieval parameters
+```
 
 #Configuration#
 1. **Modify config/settings.yaml to fit your environment**:

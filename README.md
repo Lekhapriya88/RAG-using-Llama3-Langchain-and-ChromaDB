@@ -31,6 +31,14 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**
 
+## 1. Clone the Repository
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/rag-llama3-langchain-chromadb.git
+cd rag-llama3-langchain-chromadb
+
+
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/rag-llama3-langchain-chromadb.git

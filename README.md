@@ -75,10 +75,11 @@ retrieval:
   top_k: 5
 ```
 
-##Load your custom documents into the vector database using:##
+### 2. Load your custom documents into the vector database using:
 
 ```bash
 python src/data_preprocessing.py --load-data ./data/documents
+```
 
 #💡 Usage#
 ##Running the Notebook##

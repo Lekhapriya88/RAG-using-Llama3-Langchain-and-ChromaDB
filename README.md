@@ -136,7 +136,7 @@ model:
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any ideas or improvements.
 
 #📄 License#
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [License]https://github.com/Lekhapriya88/RAG-using-Llama3-Langchain-and-ChromaDB/blob/main/LICENSE file for details.
 
 #📧 Contact#
 For any queries, please reach out to:
@@ -145,7 +145,6 @@ For any queries, please reach out to:
 * GitHub: @yourusername
 
 # 🌐 References#
-* Langchain Documentation
-* ChromaDB GitHub
-* Llama3 Overview
-
+- [Langchain Documentation](https://langchain.com/docs)
+- [ChromaDB GitHub](https://github.com/chromadb)
+- [Llama3 Overview](https://llama3.com)

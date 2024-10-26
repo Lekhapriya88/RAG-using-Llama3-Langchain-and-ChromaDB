@@ -36,7 +36,7 @@ Ensure you have the following installed on your system:
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/rag-llama3-langchain-chromadb.git
-cd rag-llama3-langchain-chromadb
+cd rag-llama3-langchain-chromadb ```
 
 
 ```bash

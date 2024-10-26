@@ -89,13 +89,14 @@ Open the Jupyter notebook and execute the cells to set up the RAG system:
 jupyter notebook notebooks/rag-using-llama3-langchain-and-chromadb.ipynb
 ```
 
-#Command-Line Interface#
+## Command-Line Interface#
 Alternatively, use the CLI to query the system:
 
 ```bash
 python src/rag_pipeline.py --query "What is the impact of X on Y?"
+```
 
-#Adding New Documents#
+## Adding New Documents
 To add and index a new set of documents:
 * Place documents in the data/ folder.
 * Run:

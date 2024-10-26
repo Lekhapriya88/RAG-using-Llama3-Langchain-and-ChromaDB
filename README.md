@@ -36,8 +36,10 @@ Ensure you have the following installed on your system:
 git clone https://github.com/yourusername/rag-llama3-langchain-chromadb.git
 cd rag-llama3-langchain-chromadb
 
+```bash
 # Install the requirements
 pip install -r requirements.txt
+
 
 
 

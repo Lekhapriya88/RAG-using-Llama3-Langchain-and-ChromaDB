@@ -26,8 +26,9 @@ Ensure you have the following installed on your system:
 * Python 3.8+
 * Jupyter Notebook
 * pip or conda for package management
-* Installation
-* Clone the Repository
+* 
+**Installation**
+  **Clone the Repository**
 
 bash
 Copy code

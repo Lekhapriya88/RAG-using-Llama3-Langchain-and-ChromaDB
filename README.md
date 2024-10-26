@@ -28,13 +28,11 @@ Ensure you have the following installed on your system:
 * pip or conda for package management
 * 
 **Installation**
-  **Clone the Repository**
 
-bash
-Copy code
-git clone https://github.com/yourusername/rag-llama3-langchain-chromadb.git
-cd rag-llama3-langchain-chromadb
-Install Dependencies
+**Clone the Repository**
+
+
+
 
 bash
 Copy code

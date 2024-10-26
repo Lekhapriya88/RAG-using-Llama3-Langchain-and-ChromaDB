@@ -26,11 +26,18 @@ Ensure you have the following installed on your system:
 * Python 3.8+
 * Jupyter Notebook
 * pip or conda for package management
-* 
+  
 **Installation**
 
 **Clone the Repository**
 
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/rag-llama3-langchain-chromadb.git
+cd rag-llama3-langchain-chromadb
+
+# Install the requirements
+pip install -r requirements.txt
 
 
 

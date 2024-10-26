@@ -45,9 +45,9 @@ pip install -r requirements.txt
 ```
 
 ### 3. Setup Environment Make sure to configure the environment variables if any API keys are required for external services.
-###Project Structure###
 
 ```bash
+# Project Structure
 ├── notebooks/
 │   └── rag-using-llama3-langchain-and-chromadb.ipynb  # Main Jupyter Notebook for the project
 ├── src/

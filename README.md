@@ -4,19 +4,21 @@ This repository showcases a Retrieval Augmented Generation (RAG) implementation 
 
 With this system:
 
-* Item 1 You can ask questions regarding documents stored in a specialized vector database.
-The model retrieves relevant documents and integrates their content seamlessly into the generated responses.
-It's designed for scenarios where integrating domain-specific knowledge into LLMs is essential without modifying the core model.
+*You can ask questions regarding documents stored in a specialized vector database.
+*The model retrieves relevant documents and integrates their content seamlessly into the generated responses.
+*It's designed for scenarios where integrating domain-specific knowledge into LLMs is essential without modifying the core model.
 
 🛠️ Key Technologies
-* Item 1Llama3: Advanced language model for natural language understanding and generation.
-* Item 1Langchain: Framework for constructing complex, multi-step LLM applications.
-* Item 1ChromaDB: A fast and efficient vector database for document storage and retrieval.
+*Llama3: Advanced language model for natural language understanding and generation.
+*Langchain: Framework for constructing complex, multi-step LLM applications.
+*ChromaDB: A fast and efficient vector database for document storage and retrieval.
+
 ✨ Features
-Seamless Document Integration: Query documents outside the training data using a vector retrieval approach.
-Scalable: Add and index new documents dynamically without additional training.
-Customizable Pipelines: Modify retrieval strategies to fit specific domains or contexts.
-Efficient Query Handling: Leverages vector similarity search for precise document retrieval.
+*Seamless Document Integration: Query documents outside the training data using a vector retrieval approach.
+*Scalable: Add and index new documents dynamically without additional training.
+*Customizable Pipelines: Modify retrieval strategies to fit specific domains or contexts.
+*Efficient Query Handling: Leverages vector similarity search for precise document retrieval.
+
 🚀 Getting Started
 Prerequisites
 Ensure you have the following installed on your system:

@@ -27,16 +27,15 @@ Ensure you have the following installed on your system:
 * Jupyter Notebook
 * pip or conda for package management
   
-**Installation**
+## Installation
 
-1. **Clone the Repository**
-
-## 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/rag-llama3-langchain-chromadb.git
-cd rag-llama3-langchain-chromadb ```
+cd rag-llama3-langchain-chromadb
+```
 
 
 ```bash

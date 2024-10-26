@@ -57,8 +57,9 @@ pip install -r requirements.txt
 ├── README.md                     # Project documentation
 └── config/
     └── settings.yaml             # Configuration for database and retrieval parameters
-Configuration
-Modify config/settings.yaml to fit your environment:
+
+#Configuration#
+1. **Modify config/settings.yaml to fit your environment**:
 
 yaml
 Copy code

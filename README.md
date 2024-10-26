@@ -83,21 +83,22 @@ Open the Jupyter notebook and execute the cells to set up the RAG system:
 
 ```bash
 jupyter notebook notebooks/rag-using-llama3-langchain-and-chromadb.ipynb
-Command-Line Interface
+
+#Command-Line Interface#
 Alternatively, use the CLI to query the system:
 
-bash
-Copy code
+```bash
 python src/rag_pipeline.py --query "What is the impact of X on Y?"
-Adding New Documents
-To add and index a new set of documents:
 
-Place documents in the data/ folder.
-Run:
-bash
-Copy code
+#Adding New Documents#
+To add and index a new set of documents:
+* Place documents in the data/ folder.
+* Run:
+
+```bash
 python src/data_preprocessing.py --load-data ./data/new_documents
-🛡️ Testing
+
+#🛡️ Testing#
 Unit tests are located in the tests/ folder.
 Run tests using:
 bash

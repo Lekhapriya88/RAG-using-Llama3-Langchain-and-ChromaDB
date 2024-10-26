@@ -37,17 +37,12 @@ git clone https://github.com/yourusername/rag-llama3-langchain-chromadb.git
 cd rag-llama3-langchain-chromadb
 ```
 
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/rag-llama3-langchain-chromadb.git
-cd rag-llama3-langchain-chromadb
-
-2. **Install Dependencies**
+### 2. Install Dependencies
 
 ```bash
 # Install the requirements
 pip install -r requirements.txt
+```
 
 3. **Setup Environment Make sure to configure the environment variables if any API keys are required for external services.**
 

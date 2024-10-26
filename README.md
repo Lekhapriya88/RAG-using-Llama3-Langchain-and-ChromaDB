@@ -60,8 +60,8 @@ pip install -r requirements.txt
     └── settings.yaml             # Configuration for database and retrieval parameters
 ```
 
-#Configuration#
-1. **Modify config/settings.yaml to fit your environment**:
+## Configuration#
+### 1. Modify config/settings.yaml to fit your environment:
 
 ```bash
 yaml
@@ -73,6 +73,7 @@ model:
   type: "Llama3"
 retrieval:
   top_k: 5
+```
 
 ##Load your custom documents into the vector database using:##
 

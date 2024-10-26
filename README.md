@@ -44,7 +44,7 @@ cd rag-llama3-langchain-chromadb
 pip install -r requirements.txt
 ```
 
-3. **Setup Environment Make sure to configure the environment variables if any API keys are required for external services.**
+### 3. Setup Environment Make sure to configure the environment variables if any API keys are required for external services.
 
 #Project Structure#
 

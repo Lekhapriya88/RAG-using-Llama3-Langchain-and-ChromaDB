@@ -4,9 +4,9 @@ This repository showcases a Retrieval Augmented Generation (RAG) implementation 
 
 With this system:
 
-*You can ask questions regarding documents stored in a specialized vector database.
-*The model retrieves relevant documents and integrates their content seamlessly into the generated responses.
-*It's designed for scenarios where integrating domain-specific knowledge into LLMs is essential without modifying the core model.
+* You can ask questions regarding documents stored in a specialized vector database.
+* The model retrieves relevant documents and integrates their content seamlessly into the generated responses.
+* It's designed for scenarios where integrating domain-specific knowledge into LLMs is essential without modifying the core model.
 
 🛠️ Key Technologies
 *Llama3: Advanced language model for natural language understanding and generation.

@@ -113,11 +113,11 @@ python src/data_preprocessing.py --load-data ./data/new_documents
 pytest tests/
 ```
 
-#🔧 Customization#
-* Adjusting the Retrieval Strategy
+# 🔧 Customization
+## Adjusting the Retrieval Strategy
 You can fine-tune the retrieval strategy by modifying the parameters in config/settings.yaml. For instance, adjust the top_k parameter to return more or fewer documents based on relevance.
 
-* Changing the Language Model
+## Changing the Language Model
 To switch the LLM to a different model, update the configuration in settings.yaml:
 
 ```bash
@@ -125,13 +125,14 @@ yaml
 Copy code
 model:
   type: "YourPreferredModel"
+```
 
-#📈 Performance Considerations#
+# 📈 Performance Considerations
 * Use batch processing for document loading if handling large datasets.
 * Tune vector database settings to optimize query speed and memory usage.
 * Experiment with different vector embedding dimensions for improved retrieval accuracy.
 
-#🤝 Contributing#
+# 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any ideas or improvements.
 
 #📄 License#
@@ -139,12 +140,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 #📧 Contact#
 For any queries, please reach out to:
-
 * Your Name: your.email@example.com
 * LinkedIn: YourLinkedInProfile
 * GitHub: @yourusername
 
-#🌐 References#
+# 🌐 References#
 * Langchain Documentation
 * ChromaDB GitHub
 * Llama3 Overview

@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the [License]https://github
 For any queries, please reach out to:
 * Your Name: lekha.bhan88@gmail.com
 * LinkedIn: https://www.linkedin.com/in/lekhapriya/
-* GitHub: 
+* GitHub: https://github.com/Lekhapriya88
 
 # 🌐 References#
 - [Langchain Documentation](https://langchain.com/docs)

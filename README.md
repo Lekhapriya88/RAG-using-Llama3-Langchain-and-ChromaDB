@@ -140,9 +140,9 @@ This project is licensed under the MIT License - see the [License]https://github
 
 #📧 Contact#
 For any queries, please reach out to:
-* Your Name: your.email@example.com
-* LinkedIn: YourLinkedInProfile
-* GitHub: @yourusername
+* Your Name: lekha.bhan88@gmail.com
+* LinkedIn: https://www.linkedin.com/in/lekhapriya/
+* GitHub: 
 
 # 🌐 References#
 - [Langchain Documentation](https://langchain.com/docs)

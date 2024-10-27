@@ -135,7 +135,7 @@ model:
 # 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have any ideas or improvements.
 
-#📄 License#
+# 📄 License
 This project is licensed under the MIT License - see the [License]https://github.com/Lekhapriya88/RAG-using-Llama3-Langchain-and-ChromaDB/blob/main/LICENSE file for details.
 
 #📧 Contact#
